@@ -139,7 +139,7 @@ section {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    gap: 20rem;
+    gap: 10rem;
 }
 
 .hero-content {
